@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Browser Sensor Data Collector</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Browser Sensor Data Collector</h1>
+    <p style="text-align: center;">Unique Browser Instance ID: <strong id="browserIdDisplay"></strong></p>
+    <div id="controls">
+        <label for="intervalSelect">Collection Interval (seconds):</label>
+        <select id="intervalSelect">
+            <option value="1">1 second</option>
+            <option value="2">2 seconds</option>
+            <option value="5" selected>5 seconds</option>
+            <option value="10">10 seconds</option>
+            <option value="30">30 seconds</option>
+            <option value="60">1 minute</option>
+        </select>
+        <button id="startButton">Start Collection</button>
+        <button id="stopButton" disabled>Stop Collection</button>
+    </div>
+    <div id="data-container">
+        <div id="data-header">Collected Sensor Data</div>
+        <table id="data-table">
+            <thead>
+                <tr>
+                    <th>Timestamp</th>
+                    <th>Latitude</th>
+                    <th>Longitude</th>
+                    <th>Geolocation Accuracy</th>
+                    <th>Ambient Light</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr id="no-data-row">
+                    <td colspan="5" style="text-align: center; padding: 15px; color: #777;">No data collected yet.</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

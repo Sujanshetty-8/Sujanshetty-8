@@ -1,0 +1,92 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+h1 {
+    color: #007bff;
+    text-align: center;
+    margin-bottom: 20px;
+}
+p {
+    margin-bottom: 10px;
+}
+strong {
+    font-weight: bold;
+    color: #555;
+}
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+button:hover {
+    background-color: #0056b3;
+}
+button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+#controls {
+    text-align: center;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+#controls label {
+    font-weight: bold;
+}
+#controls select {
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    min-width: 120px;
+}
+#data-container {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    background-color: white;
+    border-radius: 5px;
+    overflow: hidden;
+}
+#data-header {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+#data-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+#data-table th, #data-table td {
+    padding: 8px 12px;
+    border-bottom: 1px solid #eee;
+    text-align: left;
+}
+#data-table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+#data-table tr:last-child td {
+    border-bottom: none;
+}
+.error-message {
+    color: red;
+    font-style: italic;
+}
+.success-message {
+    color: green;
+    font-weight: bold;
+}
