@@ -7,3 +7,12 @@ AI & Machine Learning Student | Backend Developer | AI Enthusiast
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Machine+Learning;Backend+Developer;Python+Developer;Always+Learning&center=true&width=700&height=45">
 </p>
+
+
+## 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,mysql,tensorflow,opencv,git,github,vscode"/>
+
+</p>
