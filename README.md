@@ -45,5 +45,5 @@ AI & Machine Learning Student | Backend Developer | AI Enthusiast
 ## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sujan_Shetty_?theme=tokyonight&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Sujan_Shetty_?theme=dark&font=Karma&ext=heatmap" />
 </p>
