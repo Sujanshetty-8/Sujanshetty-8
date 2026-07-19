@@ -27,3 +27,12 @@ AI & Machine Learning Student | Backend Developer | AI Enthusiast
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sujanshetty-8&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujanshetty-8&layout=compact&theme=tokyonight)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=
+Sujan Shetty.&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
