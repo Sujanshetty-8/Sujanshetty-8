@@ -8,17 +8,30 @@ AI & Machine Learning Student | Backend Developer | AI Enthusiast
 <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Machine+Learning;Backend+Developer;Python+Developer;Always+Learning&center=true&width=700&height=45">
 </p>
 
-
-## 🛠 Tech Stack
+## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,nodejs,express,js,mongodb,mysql,tensorflow,opencv,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,mysql" />
+</p>
+
+## 🚀 Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=express,nodejs,mongodb,tensorflow" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
+
+## 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
 
 ## 📊 GitHub Stats
 
