@@ -13,6 +13,6 @@ AI & Machine Learning Student | Backend Developer | AI Enthusiast
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,mysql,tensorflow,opencv,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,,nodejs,express,mongodb,mysql,tensorflow,opencv,git,github,vscode"/>
 
 </p>
