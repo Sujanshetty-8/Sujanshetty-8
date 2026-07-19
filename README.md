@@ -28,10 +28,9 @@ AI & Machine Learning Student | Backend Developer | AI Enthusiast
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujanshetty-8&layout=compact&theme=tokyonight)
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=https://leetcode.com/u/BeOn2bUUlJ&show_icons=true&theme=tokyonight)
+## 💻 LeetCode Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=[YOURUSERNAME](https://leetcode.com/u/BeOn2bUUlJ)&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOURUSERNAME](https://leetcode.com/u/BeOn2bUUlJ)&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/BeOn2bUUlJ/?theme=tokyonight&font=Karma&ext=heatmap" />
+</p>
