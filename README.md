@@ -19,3 +19,11 @@ AI & Machine Learning Student | Backend Developer | AI Enthusiast
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Sujanshetty-8&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sujanshetty-8&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujanshetty-8&layout=compact&theme=tokyonight)
